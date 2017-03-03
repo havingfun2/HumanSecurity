@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button_click.mp3",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\raw\\button_click.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.0.0\\res\\raw\\gtm_analytics"
+    }
+]

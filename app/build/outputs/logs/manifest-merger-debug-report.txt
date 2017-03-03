@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:11:7-13:35
+	android:glEsVersion
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:13:9-32
+permission#com.example.pentagonfinal.permission.MAPS_RECEIVE
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:16:5-18:47
+	android:protectionLevel
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:17:9-73
+uses-permission#com.example.pentagonfinal.permission.MAPS_RECEIVE
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:20:5-89
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:20:22-86
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:21:5-98
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:21:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:28:22-66
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:29:5-64
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:29:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:30:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:32:5-70
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:32:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:33:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:34:5-66
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:34:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:35:22-63
+application
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:43:5-83:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:46:9-39
+	android:allowBackup
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:45:9-40
+	android:theme
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:48:9-40
+	android:logo
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:47:9-40
+activity#com.example.pentagonfinal.MainActivity
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:49:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:52:13-43
+	android:icon
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:51:13-44
+	android:logo
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:50:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:58:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:62:9-64:70
+	android:value
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:64:13-68
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:63:13-58
+activity#com.example.pentagonfinal.MapsActivity
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:65:9-68:20
+	android:label
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:67:13-43
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:66:13-41
+activity#com.example.pentagonfinal.Audio
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:73:13-43
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:72:13-34
+activity#com.example.pentagonfinal.Alarm
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:75:9-78:20
+	android:label
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:77:13-43
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:76:13-34
+activity#com.example.pentagonfinal.Googlemap
+ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:81:13-43
+	android:name
+		ADDED from C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\src\main\AndroidManifest.xml:80:13-38
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:22:13-58

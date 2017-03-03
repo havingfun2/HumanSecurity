@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio.xml",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\menu\\audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm.xml",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\menu\\alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\googlemap.xml",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\menu\\googlemap.xml"
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lag.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\lag.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\record.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_lhe.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\ic_lhe.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pentagon.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\pentagon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pause.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\audio.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\audio.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gol2.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\gol2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.0.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_1.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\camera_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lgb.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\lgb.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cg.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\cg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recordg.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\recordg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_help.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.0.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\instructions.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\instructions.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gol.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\gol.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launch.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\src\\main\\res\\drawable-hdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    }
+]

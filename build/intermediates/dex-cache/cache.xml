@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_9d35685732b1e80563c54cb45d77305659cfccdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2566d16f000f491f4db838af4ab3781ff81ce92">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2f3ea3b3d72a649abcc12dd433c07d5ac3cd591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.0.0_e3577d195b6c34b8d3ac4ccfd32c1496e5a614f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_3657d6a72d82aaae5215eaf07f0e9aa1463fadf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.0.0_85537e3bc1f3626731c2476be1891c386bbea8da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.0.0_0212efe45fb2c69d517f283586b8fca5d0723e17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.0.0_c0d79b0b996f9d8daed7611a42301cc01a66c379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.0.0_004f0cfcaeacde200b005d5807d2286370ab8f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72d7c908f181dee47fa70d058043fdb6f280307b">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b275db6e0fbaf46506905a6c89dd9cd8c00bfb92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.0.0_e8db10b8457f351569532faae2267bca5c26224d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.0.0_6f5990b4cb846fbd2cd8e075474c42b569347fbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.0.0_db423ff69f59e0456771ffb1b68467239c67d50b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.0.0_a0f491a1cfc830344d240408c9acf03ce390987e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_d439a490691919dd7f8cf592181626f4838c2dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.0.0_19586980738e60e7294080f52796f76f0674ca19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.0.0_5e37f6151f7211699c2344f32968b76b3bc2ccca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9df1afeb04904b8fcff91ba60c1760cd1b5b7c0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.0.0_6cf28ecdbaa816929cba522e2eb1e996916cb26f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.0.0_0a989ac9bc6f29aa5c0dcd852d7f10753383053d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.0.0_f4709438fb2536cef3cd3057c0ad35e8f3797503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1fb2a31b9c638df98b39d49ab4b9eaab580e134f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.0.0_7689ff3b568e9e845691b19bfb2d7fdf02721511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.0.0_e73bdec841e68a1ec102052290501d4132902ffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.0.0_789470f4ea4bb07f491f3982102cee67c1aa58fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_820718c8b2f067fd7541de4b3898742298b5c6f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.0.0_e09e118ad8f0724bd22fe0e7e5dcb566eda19b38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.0.0_3dd9e860163f3c6feb39f890821404d726dffba6\classes.dex" />
+    </item>
+
+</items>

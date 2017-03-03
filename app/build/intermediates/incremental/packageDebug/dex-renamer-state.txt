@@ -1,0 +1,7 @@
+#Thu Mar 02 14:16:22 IST 2017
+base.0=C\:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b275db6e0fbaf46506905a6c89dd9cd8c00bfb92
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f2f3ea3b3d72a649abcc12dd433c07d5ac3cd591\\classes.dex
+base.1=C\:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f2f3ea3b3d72a649abcc12dd433c07d5ac3cd591
+file.0=C\:\\Users\\Ansh\\AndroidStudioProjects\\PentagonFinal-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b275db6e0fbaf46506905a6c89dd9cd8c00bfb92\\classes.dex

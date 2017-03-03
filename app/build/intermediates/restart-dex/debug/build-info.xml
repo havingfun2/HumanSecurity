@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1098890148631142"
+    token="9077248193392247745"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="16811" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2019" />
+    <task
+        name="verifier"
+        duration="1106" />
+
+    <artifact
+        location="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1098890148631142"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Ansh\AndroidStudioProjects\PentagonFinal-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
